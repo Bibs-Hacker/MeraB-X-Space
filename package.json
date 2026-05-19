@@ -1,0 +1,13 @@
+{
+  "name": "merab-x-space",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "pino": "^8.0.0",
+    "chalk": "^5.0.0"
+  }
+}
