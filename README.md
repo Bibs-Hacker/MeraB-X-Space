@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://github.com">
-<img title="Author" src="https://img.shields.io/badge/Author-Brian%20Omondi-blue.svg?style=for-the-badge&logo=github">
+<img title="Author" src="https://img.shields.io/badge/Author-Bibs%20Hacker-blue.svg?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://nodejs.org">
